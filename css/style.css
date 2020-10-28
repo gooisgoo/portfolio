@@ -109,7 +109,7 @@ background-color: #868ec8;
 /*메인배너 메인타이틀*/
 #mainbanner .maintext p{
   font-size: 50px;
-  color: #333333;
+  color: pink;
 }
 
 #mainbanner .maintext p.maintitle{ line-height: 60px;}
